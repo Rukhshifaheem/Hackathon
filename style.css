@@ -1,0 +1,35 @@
+body {
+    background-image: url(./image/mountains-morning-snow-rock-mountain-landscape.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    background-image: url(./image/mountains-morning-snow-rock-mountain-landscape.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#list li {
+    color: white;
+}
+
+h2 {
+    padding-top: 120px;
+    
+}
+
+p {
+    font-size: 0.9rem;
+    font-weight: 100;
+}
+
+@media screen and (max-width: 500px) {
+    #div img {
+        width: 240px;
+    }
+}
+
+    
